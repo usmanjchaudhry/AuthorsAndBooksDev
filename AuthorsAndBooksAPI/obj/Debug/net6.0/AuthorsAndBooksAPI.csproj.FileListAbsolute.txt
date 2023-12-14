@@ -1,0 +1,284 @@
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\appsettings.json
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\AuthorsAndBooksAPI.exe
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\AuthorsAndBooksAPI.deps.json
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\AuthorsAndBooksAPI.runtimeconfig.json
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\AuthorsAndBooksAPI.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\AuthorsAndBooksAPI.pdb
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.csproj.AssemblyReference.cache
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.AssemblyInfoInputs.cache
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.AssemblyInfo.cs
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.csproj.CoreCompileInputs.cache
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\obj\Debug\net6.0\staticwebassets\msbuild.AuthorsAndBooksAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.AuthorsAndBooksAPI.props
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AuthorsAndBooksAPI.props
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AuthorsAndBooksAPI.props
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\obj\Debug\net6.0\scopedcss\bundle\AuthorsAndBooksAPI.styles.css
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.csproj.CopyComplete
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\obj\Debug\net6.0\refint\AuthorsAndBooksAPI.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.pdb
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.genruntimeconfig.cache
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\obj\Debug\net6.0\ref\AuthorsAndBooksAPI.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\EPPlus.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+C:\Projects\AuthorsAndBooks\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\AuthorsAndBooksAPI.exe
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\AuthorsAndBooksAPI.deps.json
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\AuthorsAndBooksAPI.runtimeconfig.json
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\AuthorsAndBooksAPI.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\AuthorsAndBooksAPI.pdb
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\EPPlus.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.csproj.AssemblyReference.cache
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.AssemblyInfoInputs.cache
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.AssemblyInfo.cs
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.csproj.CoreCompileInputs.cache
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\obj\Debug\net6.0\staticwebassets\msbuild.AuthorsAndBooksAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.AuthorsAndBooksAPI.props
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AuthorsAndBooksAPI.props
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AuthorsAndBooksAPI.props
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\obj\Debug\net6.0\scopedcss\bundle\AuthorsAndBooksAPI.styles.css
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.csproj.CopyComplete
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\obj\Debug\net6.0\refint\AuthorsAndBooksAPI.dll
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.pdb
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.genruntimeconfig.cache
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooksAPI\obj\Debug\net6.0\ref\AuthorsAndBooksAPI.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\AuthorsAndBooksAPI.exe
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\AuthorsAndBooksAPI.deps.json
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\AuthorsAndBooksAPI.runtimeconfig.json
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\AuthorsAndBooksAPI.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\AuthorsAndBooksAPI.pdb
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\EPPlus.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.csproj.AssemblyReference.cache
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.AssemblyInfoInputs.cache
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.AssemblyInfo.cs
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.csproj.CoreCompileInputs.cache
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\obj\Debug\net6.0\staticwebassets\msbuild.AuthorsAndBooksAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.AuthorsAndBooksAPI.props
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AuthorsAndBooksAPI.props
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AuthorsAndBooksAPI.props
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\obj\Debug\net6.0\scopedcss\bundle\AuthorsAndBooksAPI.styles.css
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.csproj.CopyComplete
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\obj\Debug\net6.0\refint\AuthorsAndBooksAPI.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.pdb
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.genruntimeconfig.cache
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\obj\Debug\net6.0\ref\AuthorsAndBooksAPI.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\AuthorsAndBooksAPI.exe
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\AuthorsAndBooksAPI.deps.json
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\AuthorsAndBooksAPI.runtimeconfig.json
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\AuthorsAndBooksAPI.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\AuthorsAndBooksAPI.pdb
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\EPPlus.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.csproj.AssemblyReference.cache
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.AssemblyInfoInputs.cache
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.AssemblyInfo.cs
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.csproj.CoreCompileInputs.cache
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\obj\Debug\net6.0\staticwebassets\msbuild.AuthorsAndBooksAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.AuthorsAndBooksAPI.props
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AuthorsAndBooksAPI.props
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AuthorsAndBooksAPI.props
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\obj\Debug\net6.0\scopedcss\bundle\AuthorsAndBooksAPI.styles.css
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.csproj.CopyComplete
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\obj\Debug\net6.0\refint\AuthorsAndBooksAPI.dll
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.pdb
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\obj\Debug\net6.0\AuthorsAndBooksAPI.genruntimeconfig.cache
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooksAPI\obj\Debug\net6.0\ref\AuthorsAndBooksAPI.dll

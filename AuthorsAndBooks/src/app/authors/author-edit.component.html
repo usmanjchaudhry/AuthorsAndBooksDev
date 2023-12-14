@@ -1,0 +1,51 @@
+<div class="author-edit">
+  <h1>{{title}}</h1>
+  <p *ngIf="this.id && !author"><em>Loading...</em></p>
+  <form [formGroup]="form" (ngSubmit)="onSubmit()">
+    <!-- Name -->
+    <mat-form-field>
+      <mat-label>Name:</mat-label>
+      <input matInput formControlName="name" required
+             placeholder="Type a name">
+      <mat-error *ngIf="this.form.controls['name'].errors?.['required']">
+        Name is required.
+      </mat-error>
+      <mat-error *ngIf="this.form.controls['name'].errors?.['isDupeField']">
+        Name already exists: please choose another.
+      </mat-error>
+    </mat-form-field>
+    <!-- ISO2 -->
+    <mat-form-field>
+      <mat-label>
+       Country of Origin
+      </mat-label>
+      <input matInput formControlName="countryoforigin" required
+             placeholder="Insert the country of origin ">
+      <mat-error *ngIf="this.form.controls['countryoforigin'].errors?.['required']">
+       Country of Origin is required.
+      </mat-error>
+    </mat-form-field>
+    <!-- gender -->
+    <mat-form-field>
+      <mat-label>
+        Gender
+      </mat-label>
+      <input matInput formControlName="gender" required
+             placeholder="Insert the gender">
+      <mat-error *ngIf="this.form.controls['gender'].errors?.['required']">
+        Gender is required.
+      </mat-error>
+
+    </mat-form-field>
+    <div>
+      <button mat-flat-button color="primary"
+              type="submit">
+        {{ this.id ? "Save" : "Create" }}
+      </button>
+      <button mat-flat-button color="secondary"
+              [routerLink]="['/authors']">
+        Cancel
+      </button>
+    </div>
+  </form>
+</div>

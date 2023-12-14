@@ -1,0 +1,63 @@
+<div class="book-edit">
+  <h1>{{title}}</h1>
+  <p *ngIf="this.id && !book"><em>Loading...</em></p>
+  <form [formGroup]="form" (ngSubmit)="onSubmit()">
+    <p>
+      <mat-error *ngIf="form.invalid && form.hasError('isDupeCity')">
+        <strong>ERROR</strong>:
+        A book with the same <i>title</i>, <i>genre</i>,
+        <i>main character</i> and <i>author</i> already exists.
+      </mat-error>
+    </p>
+    <!-- Name -->
+    <mat-form-field>
+      <mat-label>title:</mat-label>
+      <input matInput formControlName="title" required
+             placeholder="Type a title">
+             <mat-error *ngIf="this.form.controls['title'].errors?.['required']">
+              Title is required.
+            </mat-error>
+    </mat-form-field>
+    <!-- Lat -->
+    <mat-form-field>
+      <mat-label>genre:</mat-label>
+      <input matInput formControlName="genre" required
+             placeholder="Insert genre">
+             <mat-error *ngIf="this.form.controls['genre'].errors?.['required']">
+              Genre is required.
+            </mat-error>
+    </mat-form-field>
+    <!-- Lon -->
+    <mat-form-field>
+      <mat-label>maincharacter:</mat-label>
+      <input matInput formControlName="maincharacter" required
+             placeholder="Insert the main character">
+             <mat-error *ngIf="this.form.controls['maincharacter'].errors?.['required']">
+              Main Character is required.
+            </mat-error>
+    </mat-form-field>
+
+    <mat-form-field *ngIf="authors">
+      <mat-label>Select a Author...</mat-label>
+      <mat-select id="authorId" formControlName="authorId">
+        <mat-option *ngFor="let author of authors"
+          [value]="author.id">
+          {{author.name}}
+        </mat-option>
+      </mat-select>
+      <mat-error *ngIf="this.form.controls['authorId'].errors?.['required']">
+        Author is required.
+      </mat-error>
+    </mat-form-field>
+    <div>
+      <button mat-flat-button color="primary"
+      type="submit">
+      {{ this.id ? "Save" : "Create" }}
+    </button>
+      <button mat-flat-button color="secondary"
+        [routerLink]="['/books']">
+        Cancel
+      </button>
+    </div>
+  </form>
+</div>

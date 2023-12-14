@@ -1,0 +1,4 @@
+C:\Projects\AuthorsAndBooks\AuthorsAndBooks\obj\Debug\AuthorsAndBooks.esproj.CoreCompileInputs.cache
+C:\Users\18184\Desktop\Sample 5\AuthorsAndBooks\obj\Debug\AuthorsAndBooks.esproj.CoreCompileInputs.cache
+C:\Users\18184\Desktop\Sample5\AuthorsAndBooks\obj\Debug\AuthorsAndBooks.esproj.CoreCompileInputs.cache
+C:\Users\18184\Desktop\almostFinished\AuthorsAndBooks\obj\Debug\AuthorsAndBooks.esproj.CoreCompileInputs.cache
